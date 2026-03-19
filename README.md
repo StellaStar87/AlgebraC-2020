@@ -1,7 +1,28 @@
+#Polozili parcijalni ispit MVC CORE
+- Maja
+- Katarina
+- Jurica
+- Marko
+- Jasmin
+- Kamelija
+- Ivan Mijatovic (WCF 10.03.2021)
+- Josip
+- Dominik
+- Filip Brkic (22.03.2021)
+
+#Polozili SQL (24.02.2021)
+- Dominik Hrdas
+- Bruno Riđanec
+- Natasa 
+- Marina
+
+--> nije se pojavio Tin
+
+
 # AlgebraC-2020
 
 neka promjena
-<<<<<<< HEAD
+
 =======
 ##Zadace 30.11.2020 (drugi +): 
 - Marina Pour
@@ -20,4 +41,19 @@ neka promjena
 - Jurica
 - Josip M
 
->>>>>>> c44bac0e4d5cfe81b7c8723d9bb5f94bb401bb87
+========
+##Zadace 16.12.2020 (treci +): 
+- Dominik H
+- Kamelija
+- Stela
+- Josip M
+- Katarina
+- Maja
+- Marko B
+
+##Zadaca za 07.01.2021 (Joker +)
+- Jasmin
+- Ivan Mijatovic
+- Filip 
+
+
