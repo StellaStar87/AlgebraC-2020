@@ -23,3 +23,5 @@
 
 5. Console.Writeline(Rerna.BrojIspecenihKolaca)
 
+PROMJENA!!! PROMJENA!!!
+
